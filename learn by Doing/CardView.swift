@@ -34,6 +34,8 @@ struct CardView: View {
             
             Button(action: {
                 print("Button was tapped.")
+                
+                playSound(sound: "sound-chime", type: "mp3")
             }) {
                 HStack {
                     Text(card.callToAction.uppercased())

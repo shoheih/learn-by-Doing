@@ -3,7 +3,7 @@
 //  learn by Doing
 //
 //  Created by Shohei Hayashi on 2020/05/24.
-//  Copyright © 2020 Shohei Hayashi. All rights reserved.
+//  Copyright © 2020 前Shohei Hayashi. All rights reserved.
 //
 
 import SwiftUI
